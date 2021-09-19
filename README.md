@@ -4,12 +4,11 @@
 ### Tech Stacks
 - C#
 - RDB (Mysql, MariaDB)
-- Kafka
-- Redis
+- Kafka, Redis
 
 ### Interest
-- Java
-- Javascript
+- Java, Javascript, Spring
+- Python
 - React
 - Nosql (MongoDB)
 - REST API
