@@ -1,4 +1,19 @@
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=personflower)](https://github.com/anuraghazra/github-readme-stats)
+### Backend Engineer
+- Backend Enginner in Samsung Electronics
+
+### Tech Stacks
+- C#
+- RDB (Mysql, MariaDB)
+- Kafka
+- Redis
+
+### Interest
+- Java
+- Javascript
+- React
+- Nosql (MongoDB)
+- REST API
+- Docker
 
 <!--
 **personflower/personflower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
