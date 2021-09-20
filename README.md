@@ -11,6 +11,7 @@
 - Python
 - React
 - Nosql (MongoDB)
+- ELK Stack
 - REST API
 - Docker
 
