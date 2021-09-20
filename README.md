@@ -2,7 +2,7 @@
 - Backend Enginner in Samsung Electronics
 
 ### Tech Stacks
-- C#
+- C# (.NET Framework, .NET Core)
 - RDB (Mysql, MariaDB)
 - Kafka, Redis
 
