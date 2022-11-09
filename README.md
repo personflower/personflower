@@ -1,14 +1,15 @@
-### Backend Engineer
-- Backend Enginner in Samsung Electronics
+### Frontend Engineer
+- Frontend Enginner in Samsung Electronics
 
 ### Tech Stacks
+- Vue.js, Javascript
 - C# (.NET Framework, .NET Core)
 - RDB (Mysql, MariaDB)
 - Kafka, Redis
 
 ### Interest
 - ASP.NET
-- Java, Javascript, Spring
+- Java, Spring
 - Python
 - React
 - Nosql (MongoDB)
