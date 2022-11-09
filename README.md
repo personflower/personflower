@@ -1,5 +1,5 @@
 ### Frontend Engineer
-- Frontend Enginner in Samsung Electronics
+- Frontend Engineer in Samsung Electronics
 
 ### Tech Stacks
 - Vue.js, Javascript
